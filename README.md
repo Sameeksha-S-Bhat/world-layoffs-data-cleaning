@@ -22,3 +22,12 @@ Raw data contained duplicates, inconsistent values, wrong data types and null va
 
 ## Dataset
 World layoffs data containing company, location, industry, total laid off, percentage laid off, date, stage, country and funds raised.
+
+
+## 🔍 Key Findings After Cleaning
+
+1. **Tech industry** had the highest number of layoffs globally
+2. **United States** accounts for the majority of worldwide layoffs
+3. **Post-IPO stage companies** laid off the most employees
+4. **2022–2023** saw the peak of layoffs — post pandemic correction
+5. **Consumer and Retail** sectors were heavily impacted after tech
